@@ -1,0 +1,36 @@
+{
+  "name": "MCExtension",
+  "version": "0.1.0",
+  "summary": "A short description of MCExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/13530648281@163.com/MCExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "13530648281@163.com": "13530648281@163.com"
+  },
+  "source": {
+    "git": "https://github.com/13530648281@163.com/MCExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MCExtension/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "SDWebImage": [
+      "4.4.6"
+    ],
+    "ReactiveObjC": [
+
+    ],
+    "MJExtension": [
+
+    ]
+  }
+}

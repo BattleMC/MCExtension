@@ -1,0 +1,6 @@
+framework module MCExtension {
+  umbrella header "MCExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

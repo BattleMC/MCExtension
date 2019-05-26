@@ -1,0 +1,37 @@
+PODS:
+  - Masonry (1.1.0)
+  - MCExtension (0.1.0):
+    - Masonry
+    - MJExtension
+    - ReactiveObjC
+    - SDWebImage (= 4.4.6)
+  - MJExtension (3.0.17)
+  - ReactiveObjC (3.1.1)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+
+DEPENDENCIES:
+  - MCExtension (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - MJExtension
+    - ReactiveObjC
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  MCExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MCExtension: 78f2b7fe2fe1dda08735d89912b22b213b9b7a30
+  MJExtension: 74ec83124a68891619fb7ba9c5c811bbf1691076
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+
+PODFILE CHECKSUM: c490dee1478a757d6d04398d84b588af8011440f
+
+COCOAPODS: 1.5.3
